@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+}
+#camera{
+   border: 2px dashed brown;
+   width: 350px;
+   height: 300px;
+}
+.heading{
+    width: 80%;
+}
+.name_of_objects ,#result_object_name,#result_object_accuracy{
+    color: red;
+}
+
+.b1{
+    width: 80%;
+    
+}
